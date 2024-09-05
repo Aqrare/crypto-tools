@@ -29,8 +29,8 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          <a className={styles.card} href="https://rainbowkit.com">
-            <h2>RainbowKit Documentation &rarr;</h2>
+          <a className={styles.card} href="/NFT">
+            <h2>Handling NFT &rarr;</h2>
             <p>Learn how to customize your wallet connection flow.</p>
           </a>
 
